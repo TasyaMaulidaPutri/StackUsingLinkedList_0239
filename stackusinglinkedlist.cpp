@@ -24,6 +24,9 @@ class Stack
             top = NULL;
         }
 
-        
+        int push(int value)
+        {
+            
+        }
 
 };
